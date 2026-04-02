@@ -1,34 +1,105 @@
-﻿# Oscar Fuentes Fernandez
+<h1 align="center">Hi, I'm Oscar Fuentes Fernandez</h1>
 
-Independent Researcher & AI Systems Architect  
-Focus: Deterministic AI, Formal Verification, Scientific Simulation, Privacy-First Systems
-
----
-
-## Research & Engineering Focus
-- Deterministic and verifiable AI systems
-- Commonsense reasoning engines (offline-first)
-- Formal methods (Lean, fixpoints, invariants)
-- Scientific simulation (climate, physics, thermodynamics)
-- Privacy-first and on-device architectures
+<p align="center">
+  Founder building real software across broad product surfaces and reliability-focused AI systems from first principles.
+</p>
 
 ---
 
-## Selected Projects
-- Commonsense Firewall Pro — Deterministic reasoning firewall with fixpoint convergence
-- Reflexive DSHA — Self-healing autonomous systems with formal guarantees
-- Climate Crisis Simulator — Reproducible climate modeling (AR6-based)
-- Protein Free Energy Landscape — Thermodynamic modeling and simulation
+## Kemrai
+
+I am the founder of **[Kemrai](https://www.kemrai.com)**, a live platform with more than 100 functional applications across creative, technical, and utility workflows.
+
+Kemrai reflects a broad applied engineering effort: designing, building, integrating, and shipping many distinct software experiences, often with AI-enabled capabilities where they provide practical value.
+
+This matters because it demonstrates sustained product execution across a large and varied application surface, not just isolated demos or experiments.
 
 ---
 
-## Publications & Research Outputs
-Zenodo DOI-linked releases (datasets, software, papers)
+## What I Build
 
-Zenodo: https://zenodo.org/ (pon tu link real aquí)
+My work spans two complementary dimensions:
+
+- **Broad product execution** — building and shipping many real, usable applications across different workflow categories
+- **Deep systems engineering** — designing deterministic, auditable, and bounded execution systems intended to behave reliably under operational constraints
+
+I am especially interested in software where correctness, traceability, bounded behavior, and reproducibility matter.
 
 ---
 
-## Contact
-- GitHub: @crasofuentes-hub
-- Email: crasofuentes@gmail.com
+## Current Focus — Deterministic Agent Systems
+
+Alongside Kemrai, I am actively developing deterministic-first agent execution systems in TypeScript/Node.js with goals such as:
+
+- canonical planning and normalized execution inputs
+- bounded autonomous behavior with explicit execution limits
+- replay-oriented traces and verifiable run artifacts
+- deterministic tool orchestration where domain logic permits
+- clear separation between planning, execution, adapters, and verification concerns
+- domain-oriented vertical slices for real business workflows
+
+The objective is not to create the appearance of intelligence through ambiguity.  
+The objective is to build systems that are operationally reliable, inspectable, and safe to evolve.
+
+---
+
+## Engineering Principles
+
+My work is guided by a small set of hard constraints:
+
+- **Determinism where feasible** — equivalent inputs should converge toward equivalent outcomes
+- **Bounded execution** — no invisible loops, no uncontrolled autonomy
+- **Traceability** — decisions and state transitions must be inspectable
+- **Replayability** — runs should be reproducible and diagnosable
+- **Controlled use of LLMs** — language models should support reasoning, not replace engineering discipline
+
+I use LLMs as high-bandwidth reasoning tools for architecture exploration, invariant analysis, edge-case stress testing, and systems design iteration, while maintaining direct ownership of implementation, verification, and hardening.
+
+---
+
+## Technical Direction
+
+My projects commonly involve:
+
+- TypeScript / Node.js
+- deterministic execution patterns
+- canonicalization and stable hashing
+- replay-oriented traces and audit-friendly artifacts
+- formalized tool contracts
+- enterprise-oriented agent workflows
+- simulation and systems modeling
+- AI-enabled application platforms
+
+I am particularly drawn to problems at the intersection of:
+
+- systems engineering
+- first-principles reasoning
+- reliability under partial autonomy
+- rigorous domain behavior under production constraints
+- practical software delivery at scale of scope
+
+---
+
+## What I Care About
+
+I care less about impressive demos and more about operational integrity.
+
+A useful system should be understandable, testable, replayable, and robust under pressure.  
+That standard shapes how I design repositories, structure code, define interfaces, and evaluate progress.
+
+---
+
+## Selected Areas of Work
+
+- Kemrai and multi-application AI product platforms
+- deterministic agent execution engines
+- audit-friendly customer-service automation
+- domain-constrained orchestration systems
+- scientific and simulation-oriented software
+- reproducible engineering workflows
+
+---
+
+## Contact / Collaboration
+
+Open to technical conversations around deterministic agents, bounded autonomy, replayable workflows, AI reliability, and production-oriented software design.
